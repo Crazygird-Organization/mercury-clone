@@ -1,2 +1,5 @@
 # mercury-clone
-clone of mercury i guess (don't make public yet)
+clone of murcury.
+
+
+THIS IS A WORK IN PROGRESS
